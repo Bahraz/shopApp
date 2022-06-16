@@ -6,4 +6,4 @@ Hi, my name is Jarosław Gruszka, in my spare time I am learning programming and
 
 ## Learning Laravel
 
-This is my first Laravel web application. It was written while learning the framework.
+This is my first Laravel web application. It was written while learning the framework. Let's Go!
